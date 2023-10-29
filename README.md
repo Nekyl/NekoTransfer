@@ -12,6 +12,7 @@ pip install pyfiglet
 pip install aminofix
 pip install samino
 pip install tqdm
+pkg install git
 git clone https://github.com/Nekyl/NekoTransfer
 
 Entre na pasta:
