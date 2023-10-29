@@ -1,5 +1,3 @@
-# ------------------- MASSIVE AMOUNT TRANSFER v1.3 -------------------
-
 from threading import Thread
 import aminofix
 import pyfiglet
@@ -22,9 +20,7 @@ print("   " + colored(r=17, g=10, b=3, rb=251, gb=197, bb=49, text=" ❯ ") + co
 
 client = aminofix.Client()
 
-email = "matheusalmeidaalmeida189@gmail.com"
 
-password = "m01010011"
 
 link = input("\n " + colored(r=17, g=10, b=3, rb=251, gb=197, bb=49, text=" ❯ ") + colored(rb=99, gb=13, bb=28, r=251, g=197, b=49, text=" Insira o link do blog: ") + " ")
 
