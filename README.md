@@ -19,5 +19,4 @@ cd NekoTransfer
 python "script escolhido"
 
 E escolha uma versão. 
-A versão 1.0 transfere por meio da assinatura mensal (tem q estar habilitada em 500Ac) 
-e a 2.0 envia por blog (wiki pode bugar, então não o aconselho).
+A versão 1.0 transfere por meio da assinatura mensal (tem q estar habilitada em 500Ac) e a 2.0 envia por blog (wiki pode bugar, então não aconselho).
