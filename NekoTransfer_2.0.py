@@ -20,7 +20,11 @@ print("   " + colored(r=17, g=10, b=3, rb=251, gb=197, bb=49, text=" ❯ ") + co
 
 client = aminofix.Client()
 
+email = input("\n " + colored(r=17, g=10, b=3, rb=251, gb=197, bb=49, text=" ❯ ") + colored(rb=99, gb=13, bb=28, r=251, g=197, b=49, text=" Insira seu e-mail: ") + " ")
 
+
+
+password = getpass.getpass("\n " + colored(r=17, g=10, b=3, rb=251, gb=197, bb=49, text=" ❯ ") + colored(rb=99, gb=13, bb=28, r=251, g=197, b=49, text=" Digite sua senha: ") + " ")
 
 link = input("\n " + colored(r=17, g=10, b=3, rb=251, gb=197, bb=49, text=" ❯ ") + colored(rb=99, gb=13, bb=28, r=251, g=197, b=49, text=" Insira o link do blog: ") + " ")
 
