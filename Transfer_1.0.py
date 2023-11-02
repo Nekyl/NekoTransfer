@@ -1,6 +1,13 @@
 import getpass
 import pyfiglet
 
+
+ cuf
+
+
+
+mc
+
 def colored(r : int = None, g : int = None, b : int = None, rb : int = None, gb : int = None, bb : int = None, text = None):
 
     if rb is None and gb is None and bb is None:
