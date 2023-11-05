@@ -6,12 +6,10 @@ Algumas dependências e modo de instalação:
 
 Abra seu Termux e cole o seguinte comando;
 
-pkg install python3 && pkg install python2
+pkg install python2 && pkg install python3
 pip install amino.fix
 pip install pyfiglet
-pip install aminofix
-pip install samino
-pip install tqdm
+pip install progress
 pkg install git
 git clone https://github.com/Nekyl/NekoTransfer
 
